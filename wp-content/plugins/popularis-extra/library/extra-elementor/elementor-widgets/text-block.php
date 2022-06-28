@@ -258,7 +258,7 @@ class Popularis_Text_Block extends Widget_Base {
         $block = $settings['header_size'];
 
         $animation_effects = $settings["animation_effects"];
-        $animation_delay = $settings["animation_delay"]["size"];
+        $animation_delay = 0;
         $animate_duration = '';
         if ($settings["animation_duration_default"] == 'yes') {
             $animate_duration = $settings["animate_duration"]["size"];
