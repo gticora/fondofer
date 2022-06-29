@@ -3262,7 +3262,7 @@ msgstr "No se ha definido ningún tema para esta plantilla."
 #: wp-includes/block-patterns/social-links-shared-background-color.php:9
 msgctxt "Block pattern title"
 msgid "Social links with a shared background color"
-msgstr "Enlaces sociales con un color de fondo compartido"
+msgstr "Enlaces sociales con un color de fondofer compartido"
 
 #: wp-includes/block-patterns/query-standard-posts.php:9
 msgctxt "Block pattern title"
@@ -3483,7 +3483,7 @@ msgstr "Archivo"
 #: wp-includes/blocks/cover/block.json
 msgctxt "block title"
 msgid "Cover"
-msgstr "Fondo"
+msgstr "fondofer"
 
 #: wp-includes/blocks/column/block.json
 msgctxt "block title"
@@ -5368,7 +5368,7 @@ msgstr "Logotipo personalizado si está definido por el tema."
 
 #: wp-includes/theme.php:3823
 msgid "Custom background if defined by the theme."
-msgstr "Fondo personalizado si está definido por el tema."
+msgstr "fondofer personalizado si está definido por el tema."
 
 #: wp-includes/theme.php:3893
 msgid "Custom header if defined by the theme."
@@ -5852,7 +5852,7 @@ msgstr ""
 "\n"
 "###SUPPORT###\n"
 "\n"
-"Si tu sitio parece roto y no puedes acceder a tu escritorio con normalidad, ahora WordPress tiene un «modo de recuperación» especial. Este te permite acceder de forma segura a tu escritorio e investigar más a fondo.\n"
+"Si tu sitio parece roto y no puedes acceder a tu escritorio con normalidad, ahora WordPress tiene un «modo de recuperación» especial. Este te permite acceder de forma segura a tu escritorio e investigar más a fondofer.\n"
 "\n"
 "###LINK###\n"
 "\n"
@@ -5865,7 +5865,7 @@ msgstr ""
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:145
 msgid "Please contact your host for assistance with investigating this issue further."
-msgstr "Por favor contacta con tu proveedor de alojamiento web para solicitar ayuda con la investigación a fondo de este problema."
+msgstr "Por favor contacta con tu proveedor de alojamiento web para solicitar ayuda con la investigación a fondofer de este problema."
 
 #: wp-includes/class-wp-recovery-mode.php:177
 msgid "Error occurred on a non-protected endpoint."
@@ -10267,28 +10267,28 @@ msgstr "Este archivo de vídeo es demasiado grande para ser empleado como un ví
 
 #: wp-includes/class-wp-customize-manager.php:6011
 msgid "Unrecognized background setting."
-msgstr "Ajuste de fondo no reconocido."
+msgstr "Ajuste de fondofer no reconocido."
 
 #: wp-includes/class-wp-customize-manager.php:6002
 #: wp-includes/class-wp-customize-manager.php:6006
 msgid "Invalid value for background size."
-msgstr "Valor no válido del tamaño de la imagen de fondo."
+msgstr "Valor no válido del tamaño de la imagen de fondofer."
 
 #: wp-includes/class-wp-customize-manager.php:5998
 msgid "Invalid value for background position Y."
-msgstr "Valor no válido de la posición Y de la imagen de fondo."
+msgstr "Valor no válido de la posición Y de la imagen de fondofer."
 
 #: wp-includes/class-wp-customize-manager.php:5994
 msgid "Invalid value for background position X."
-msgstr "Valor no válido de la posición X de la imagen de fondo."
+msgstr "Valor no válido de la posición X de la imagen de fondofer."
 
 #: wp-includes/class-wp-customize-manager.php:5990
 msgid "Invalid value for background attachment."
-msgstr "Valor no válido para el archivo adjunto de fondo."
+msgstr "Valor no válido para el archivo adjunto de fondofer."
 
 #: wp-includes/class-wp-customize-manager.php:5986
 msgid "Invalid value for background repeat."
-msgstr "Valor no válido de la repetición de la imagen de fondo."
+msgstr "Valor no válido de la repetición de la imagen de fondofer."
 
 #: wp-includes/class-wp-customize-manager.php:5677
 msgid "Learn more about CSS"
@@ -10306,7 +10306,7 @@ msgstr "Desplazar con la página"
 #: wp-includes/class-wp-customize-manager.php:5565
 #: wp-admin/includes/class-custom-background.php:447
 msgid "Repeat Background Image"
-msgstr "Repetir la imagen de fondo"
+msgstr "Repetir la imagen de fondofer"
 
 #: wp-includes/class-wp-customize-manager.php:5542
 #: wp-admin/includes/class-custom-background.php:433
@@ -13472,7 +13472,7 @@ msgstr "Color del texto"
 
 #: wp-includes/class-wp-editor.php:1349
 msgid "Background color"
-msgstr "Color de fondo"
+msgstr "Color de fondofer"
 
 #: wp-includes/class-wp-editor.php:1318
 #: wp-includes/js/dist/block-library.js:43710
@@ -14639,13 +14639,13 @@ msgstr "Una página estática"
 #: wp-admin/includes/class-custom-background.php:259
 #: wp-admin/includes/template.php:2341
 msgid "Background Image"
-msgstr "Imagen de fondo"
+msgstr "Imagen de fondofer"
 
 #: wp-includes/class-wp-customize-manager.php:5298
 #: wp-admin/includes/class-custom-background.php:460
 #: wp-admin/includes/class-custom-background.php:461
 msgid "Background Color"
-msgstr "Color de fondo"
+msgstr "Color de fondofer"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:247
 msgid "Change image"
@@ -17012,7 +17012,7 @@ msgstr "Pantalla completa"
 #: wp-includes/js/dist/format-library.js:1441
 #: wp-admin/includes/class-custom-background.php:65 wp-admin/menu.php:238
 msgid "Background"
-msgstr "Fondo"
+msgstr "fondofer"
 
 #: wp-includes/media-template.php:1028 wp-includes/media-template.php:1092
 #: wp-includes/js/dist/block-editor.js:12077

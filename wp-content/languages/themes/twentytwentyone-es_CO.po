@@ -36,7 +36,7 @@ msgstr "https://wordpress.org/support/article/twenty-twenty-one/#dark-mode-suppo
 #. translators: %s: Twenty Twenty-One support article URL.
 #: classes/class-twenty-twenty-one-dark-mode.php:177
 msgid "Dark Mode is a device setting. If a visitor to your site requests it, your site will be shown with a dark background and light text. <a href=\"%s\">Learn more about Dark Mode.</a>"
-msgstr "El modo oscuro es un ajuste del dispositivo. Si un visitante de tu sitio lo solicita, tu sitio se mostrará con un fondo oscuro y un texto claro. <a href=\"%s\">Aprende más sobre el modo oscuro.</a>"
+msgstr "El modo oscuro es un ajuste del dispositivo. Si un visitante de tu sitio lo solicita, tu sitio se mostrará con un fondofer oscuro y un texto claro. <a href=\"%s\">Aprende más sobre el modo oscuro.</a>"
 
 #: classes/class-twenty-twenty-one-dark-mode.php:181
 msgid "Dark Mode can also be turned on and off with a button that you can find in the bottom corner of the page."
@@ -64,7 +64,7 @@ msgstr "Aprende más sobre el modo oscuro."
 
 #: classes/class-twenty-twenty-one-customize-notice-control.php:39
 msgid "To access the Dark Mode settings, select a light background color."
-msgstr "Para acceder a los ajustes del modo oscuro, selecciona un color de fondo claro."
+msgstr "Para acceder a los ajustes del modo oscuro, selecciona un color de fondofer claro."
 
 #: classes/class-twenty-twenty-one-dark-mode.php:134
 msgid "Colors & Dark Mode"
@@ -113,7 +113,7 @@ msgstr "ejemplo@ejemplo.com"
 #: classes/class-twenty-twenty-one-customize.php:138
 msgctxt "Customizer control"
 msgid "Background color"
-msgstr "Color del fondo"
+msgstr "Color del fondofer"
 
 #. translators: %s: WordPress Version.
 #: inc/back-compat.php:42 inc/back-compat.php:61 inc/back-compat.php:86

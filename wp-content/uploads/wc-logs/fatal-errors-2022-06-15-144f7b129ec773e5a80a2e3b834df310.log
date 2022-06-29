@@ -1,18 +1,18 @@
-2022-06-15T03:05:47+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\fondo\wp-content\plugins\popularis-extra\includes\panel\demos.php:308
+2022-06-15T03:05:47+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\fondofer\wp-content\plugins\popularis-extra\includes\panel\demos.php:308
 Stack trace:
-#0 C:\xampp\htdocs\fondo\wp-includes\class-wp-hook.php(307): Popularis_Extra_Demos::ajax_demo_data('')
-#1 C:\xampp\htdocs\fondo\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
-#2 C:\xampp\htdocs\fondo\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
-#3 C:\xampp\htdocs\fondo\wp-admin\admin-ajax.php(187): do_action('wp_ajax_popular...')
+#0 C:\xampp\htdocs\fondofer\wp-includes\class-wp-hook.php(307): Popularis_Extra_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\fondofer\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\fondofer\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\fondofer\wp-admin\admin-ajax.php(187): do_action('wp_ajax_popular...')
 #4 {main}
-  thrown en C:\xampp\htdocs\fondo\wp-content\plugins\popularis-extra\includes\panel\demos.php en la línea 308
+  thrown en C:\xampp\htdocs\fondofer\wp-content\plugins\popularis-extra\includes\panel\demos.php en la línea 308
 
-2022-06-15T03:11:08+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\fondo\wp-content\plugins\popularis-extra\includes\panel\demos.php:308
+2022-06-15T03:11:08+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\fondofer\wp-content\plugins\popularis-extra\includes\panel\demos.php:308
 Stack trace:
-#0 C:\xampp\htdocs\fondo\wp-includes\class-wp-hook.php(307): Popularis_Extra_Demos::ajax_demo_data('')
-#1 C:\xampp\htdocs\fondo\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
-#2 C:\xampp\htdocs\fondo\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
-#3 C:\xampp\htdocs\fondo\wp-admin\admin-ajax.php(187): do_action('wp_ajax_popular...')
+#0 C:\xampp\htdocs\fondofer\wp-includes\class-wp-hook.php(307): Popularis_Extra_Demos::ajax_demo_data('')
+#1 C:\xampp\htdocs\fondofer\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\fondofer\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\fondofer\wp-admin\admin-ajax.php(187): do_action('wp_ajax_popular...')
 #4 {main}
-  thrown en C:\xampp\htdocs\fondo\wp-content\plugins\popularis-extra\includes\panel\demos.php en la línea 308
+  thrown en C:\xampp\htdocs\fondofer\wp-content\plugins\popularis-extra\includes\panel\demos.php en la línea 308
 

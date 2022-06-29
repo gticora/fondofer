@@ -745,7 +745,7 @@ msgstr "Mollie"
 
 #: src/Admin/Features/PaymentGatewaySuggestions/DefaultPaymentGateways.php:27
 msgid "The PayFast extension for WooCommerce enables you to accept payments by Credit Card and EFT via one of South Africa’s most popular payment gateways. No setup fees or monthly subscription costs. Selecting this extension will configure your store to use South African rands as the selected currency."
-msgstr "La extensión PayFast for WooCommerce te permite aceptar pagos mediante tarjetas de crédito y transferencias electrónicas de fondos a través de una de las pasarelas de pago más populares de Sudáfrica. No tiene cuotas de acceso ni costes mensuales de suscripción. Al seleccionar esta extensión se configurará tu tienda para que uses rands sudafricanos como la moneda seleccionada."
+msgstr "La extensión PayFast for WooCommerce te permite aceptar pagos mediante tarjetas de crédito y transferencias electrónicas de fondofers a través de una de las pasarelas de pago más populares de Sudáfrica. No tiene cuotas de acceso ni costes mensuales de suscripción. Al seleccionar esta extensión se configurará tu tienda para que uses rands sudafricanos como la moneda seleccionada."
 
 #: src/Admin/API/Reports/Variations/Stats/Controller.php:165
 msgid "Number of variation items sold."
@@ -8888,7 +8888,7 @@ msgstr "Estado de WooCommerce"
 
 #: includes/wc-order-functions.php:810
 msgid "Order status set to refunded. To return funds to the customer you will need to issue a refund through your payment gateway."
-msgstr "El estado del pedido se ha cambiado a reembolsado. Para reembolsar fondos al cliente necesitarás emitir un reembolso a través de tu pasarela de pago."
+msgstr "El estado del pedido se ha cambiado a reembolsado. Para reembolsar fondofers al cliente necesitarás emitir un reembolso a través de tu pasarela de pago."
 
 #: includes/wc-core-functions.php:635
 msgid "Bol&iacute;var soberano"
@@ -14745,7 +14745,7 @@ msgstr "Se ha recibido el pago para el pedido cancelado %s"
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:211
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:179
 msgid "Payment authorized. Change payment status to processing or complete to capture funds."
-msgstr "Pago autorizado. Cambia el estado del pedido a procesando o completo para capturar los fondos."
+msgstr "Pago autorizado. Cambia el estado del pedido a procesando o completo para capturar los fondofers."
 
 #. translators: 1: Authorization ID, 2: Payment status
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:436
@@ -16164,12 +16164,12 @@ msgstr "El color principal del texto de la página. Por defecto %s."
 #. translators: %s: default color
 #: includes/admin/settings/class-wc-settings-emails.php:173
 msgid "The main body background color. Default %s."
-msgstr "El color principal del fondo de la página. Por defecto %s."
+msgstr "El color principal del fondofer de la página. Por defecto %s."
 
 #. translators: %s: default color
 #: includes/admin/settings/class-wc-settings-emails.php:161
 msgid "The background color for WooCommerce email templates. Default %s."
-msgstr "El color de fondo para las plantillas de correo electrónico de WooCommerce. Por defecto %s."
+msgstr "El color de fondofer para las plantillas de correo electrónico de WooCommerce. Por defecto %s."
 
 #. translators: %s: default color
 #: includes/admin/settings/class-wc-settings-emails.php:149
@@ -21482,7 +21482,7 @@ msgstr "Color del texto del cuerpo"
 
 #: includes/admin/settings/class-wc-settings-emails.php:171
 msgid "Body background color"
-msgstr "Color de fondo del cuerpo"
+msgstr "Color de fondofer del cuerpo"
 
 #: includes/admin/settings/class-wc-settings-emails.php:134
 msgid "Footer text"
@@ -23041,7 +23041,7 @@ msgstr "Captura"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:108
 msgid "Choose whether you wish to capture funds immediately or authorize payment only."
-msgstr "Elige si deseas capturar fondos inmediatamente o autorizar el pago únicamente."
+msgstr "Elige si deseas capturar fondofers inmediatamente o autorizar el pago únicamente."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:105
 msgid "Payment action"
@@ -26682,7 +26682,7 @@ msgstr "Ubicación(es) de venta"
 
 #: includes/admin/settings/class-wc-settings-emails.php:159
 msgid "Background color"
-msgstr "Color de fondo"
+msgstr "Color de fondofer"
 
 #: includes/admin/settings/class-wc-settings-emails.php:147
 msgid "Base color"

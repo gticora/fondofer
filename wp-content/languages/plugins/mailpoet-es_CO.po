@@ -3626,7 +3626,7 @@ msgstr "Boletín: En blanco. Columnas 1:3"
 
 #: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:190
 msgid "<p><span style=\"line-height: 25.6px;\">You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon.</span></p>"
-msgstr "<p><span style=\"line-height: 25.6px;\">Puedes cambiar el color de fondo de un diseño haciendo clic en el icono de configuración del borde derecho del Diseñador. Simplemente coloca el cursor sobre esa área para ver el icono de «Ajustes» (engrane).</span></p>"
+msgstr "<p><span style=\"line-height: 25.6px;\">Puedes cambiar el color de fondofer de un diseño haciendo clic en el icono de configuración del borde derecho del Diseñador. Simplemente coloca el cursor sobre esa área para ver el icono de «Ajustes» (engrane).</span></p>"
 
 #: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:171
 msgid ""
@@ -3692,7 +3692,7 @@ msgstr ""
 
 #: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:190
 msgid "You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon."
-msgstr "Puedes cambiar el color de fondo de un diseño haciendo clic en el ícono de ajustes en el borde derecho del diseñador. Simplemente coloca el cursor sobre esta área para ver el icono de Ajustes (engranaje)."
+msgstr "Puedes cambiar el color de fondofer de un diseño haciendo clic en el ícono de ajustes en el borde derecho del diseñador. Simplemente coloca el cursor sobre esta área para ver el icono de Ajustes (engranaje)."
 
 #: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:171
 msgid ""

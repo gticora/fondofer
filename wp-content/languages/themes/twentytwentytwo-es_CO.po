@@ -123,7 +123,7 @@ msgstr "Principal y secundario"
 #: theme.json
 msgctxt "Duotone name"
 msgid "Primary and background"
-msgstr "Principal y fondo"
+msgstr "Principal y fondofer"
 
 #: theme.json
 msgctxt "Duotone name"
@@ -138,27 +138,27 @@ msgstr "Primer plano y secundario"
 #: theme.json
 msgctxt "Duotone name"
 msgid "Foreground and background"
-msgstr "Primer plano y fondo"
+msgstr "Primer plano y fondofer"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Diagonal background to tertiary"
-msgstr "Diagonal fondo a terciario"
+msgstr "Diagonal fondofer a terciario"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Diagonal tertiary to background"
-msgstr "Diagonal terciario al fondo"
+msgstr "Diagonal terciario al fondofer"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Diagonal background to secondary"
-msgstr "Diagonal fondo a secundario"
+msgstr "Diagonal fondofer a secundario"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Diagonal secondary to background"
-msgstr "Diagonal secundario al fondo"
+msgstr "Diagonal secundario al fondofer"
 
 #: theme.json
 msgctxt "Gradient name"
@@ -168,12 +168,12 @@ msgstr "Diagonal principal al primer plano"
 #: theme.json
 msgctxt "Gradient name"
 msgid "Vertical tertiary to background"
-msgstr "Vertical terciario al fondo"
+msgstr "Vertical terciario al fondofer"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Vertical secondary to background"
-msgstr "Vertical secundario al fondo"
+msgstr "Vertical secundario al fondofer"
 
 #: theme.json
 msgctxt "Gradient name"
@@ -198,7 +198,7 @@ msgstr "Principal"
 #: theme.json styles/blue.json styles/pink.json styles/swiss.json
 msgctxt "Color name"
 msgid "Background"
-msgstr "Fondo"
+msgstr "fondofer"
 
 #: theme.json styles/blue.json styles/pink.json styles/swiss.json
 msgctxt "Color name"
@@ -343,7 +343,7 @@ msgstr "Juan<br>Vázquez"
 
 #: inc/patterns/page-about-solid-color.php:6
 msgid "About page on solid color background"
-msgstr "Página «Acerca de» sobre fondo de color sólido"
+msgstr "Página «Acerca de» sobre fondofer de color sólido"
 
 #: inc/patterns/page-about-simple-dark.php:22
 msgid "Oh hello. My name’s Jesús, and you’ve found your way to my website. I’m an avid bird watcher, and I also broadcast my own radio show on Tuesday evenings at 11PM EDT."
@@ -503,15 +503,15 @@ msgstr "Cabecera con título y botón"
 
 #: inc/patterns/header-text-only-with-tagline-black-background.php:6
 msgid "Text-only header with tagline and black background"
-msgstr "Cabecera solo de texto con descripción corta y fondo negro "
+msgstr "Cabecera solo de texto con descripción corta y fondofer negro "
 
 #: inc/patterns/header-text-only-salmon-background.php:6
 msgid "Text-only header with salmon background"
-msgstr "Cabecera solo de texto con fondo color salmón"
+msgstr "Cabecera solo de texto con fondofer color salmón"
 
 #: inc/patterns/header-text-only-green-background.php:6
 msgid "Text-only header with green background"
-msgstr "Cabecera solo de texto con fondo verde"
+msgstr "Cabecera solo de texto con fondofer verde"
 
 #: inc/patterns/header-stacked.php:6
 msgid "Logo and navigation header"
@@ -519,11 +519,11 @@ msgstr "Cabecera con logotipo y navegación"
 
 #: inc/patterns/header-small-dark.php:6
 msgid "Small header with dark background"
-msgstr "Cabecera pequeña con fondo oscuro"
+msgstr "Cabecera pequeña con fondofer oscuro"
 
 #: inc/patterns/header-logo-navigation-social-black-background.php:6
 msgid "Logo, navigation, and social links header with black background"
-msgstr "Cabecera con logotipo, navegación y enlaces sociales con fondo negro"
+msgstr "Cabecera con logotipo, navegación y enlaces sociales con fondofer negro"
 
 #: inc/patterns/header-logo-navigation-offset-tagline.php:6
 msgid "Logo, navigation, and offset tagline Header"
@@ -531,7 +531,7 @@ msgstr "Cabecera con logotipo, navegación y descripción corta desplazada"
 
 #: inc/patterns/header-logo-navigation-gray-background.php:6
 msgid "Logo and navigation header with gray background"
-msgstr "Cabecera con logotipo y navegación con fondo gris"
+msgstr "Cabecera con logotipo y navegación con fondofer gris"
 
 #: inc/patterns/header-large-dark.php:24
 #: inc/patterns/hidden-heading-and-bird.php:14
@@ -540,7 +540,7 @@ msgstr "<em>La incubadora</em>: Un blog sobre mis aventuras en la observación d
 
 #: inc/patterns/header-large-dark.php:6
 msgid "Large header with dark background"
-msgstr "Cabecera grande con fondo oscuro"
+msgstr "Cabecera grande con fondofer oscuro"
 
 #: inc/patterns/header-image-background.php:11
 msgid "Illustration of a flying bird"
@@ -548,11 +548,11 @@ msgstr "Ilustración de un pájaro volando"
 
 #: inc/patterns/header-image-background.php:6
 msgid "Header with image background"
-msgstr "Cabecera con imagen de fondo"
+msgstr "Cabecera con imagen de fondofer"
 
 #: inc/patterns/header-image-background-overlay.php:6
 msgid "Header with image background and overlay"
-msgstr "Cabecera con imagen de fondo y superposición"
+msgstr "Cabecera con imagen de fondofer y superposición"
 
 #: inc/patterns/header-default.php:6
 msgid "Default header"
@@ -560,7 +560,7 @@ msgstr "Cabecera por defecto"
 
 #: inc/patterns/header-centered-title-navigation-social.php:6
 msgid "Centered header with navigation, social links, and salmon background"
-msgstr "Cabecera centrada con navegación, enlaces sociales y fondo de color salmón"
+msgstr "Cabecera centrada con navegación, enlaces sociales y fondofer de color salmón"
 
 #: inc/patterns/header-centered-logo.php:6
 msgid "Header with centered logo"
@@ -568,7 +568,7 @@ msgstr "Cabecera con logotipo centrado"
 
 #: inc/patterns/header-centered-logo-black-background.php:6
 msgid "Header with centered logo and black background"
-msgstr "Cabecera con logotipo centrado y fondo negro"
+msgstr "Cabecera con logotipo centrado y fondofer negro"
 
 #: inc/patterns/general-wide-image-intro-buttons.php:31
 msgid "Learn More"
@@ -825,7 +825,7 @@ msgstr "Divisor con imagen y color (oscuro)"
 
 #: inc/patterns/footer-title-tagline-social.php:6
 msgid "Footer with title, tagline, and social links on a dark background"
-msgstr "Pie de página con título, descripción corta y enlaces sociales en un fondo oscuro"
+msgstr "Pie de página con título, descripción corta y enlaces sociales en un fondofer oscuro"
 
 #: inc/patterns/footer-social-copyright.php:6
 msgid "Footer with social links and copyright"

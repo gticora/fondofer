@@ -14,7 +14,7 @@ msgstr ""
 #. Description of the theme
 #, gp-priority: high
 msgid "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors."
-msgstr "Nuestro tema por defecto para 2020 está diseñado para aprovechar al máximo la flexibilidad del editor de bloques. Las organizaciones y empresas tienen la posibilidad de crear páginas de destino dinámicas con un sinfín de diseños usando los bloques de grupos y columnas. La columna de contenido centrada y la tipografía ajustada también lo hacen perfecto para blogs tradicionales. Los completos estilos de edición te dan una buena idea de cómo se verá tu contenido, incluso antes de que lo publiques. Puedes dar un toque personal a tu sitio cambiando los colores de fondo y el color de énfasis en el personalizador. Los colores de todos los elementos de tu sitio se calculan automáticamente en base a los colores que elijas, asegurando un alto y accesible contraste de color para tus visitantes."
+msgstr "Nuestro tema por defecto para 2020 está diseñado para aprovechar al máximo la flexibilidad del editor de bloques. Las organizaciones y empresas tienen la posibilidad de crear páginas de destino dinámicas con un sinfín de diseños usando los bloques de grupos y columnas. La columna de contenido centrada y la tipografía ajustada también lo hacen perfecto para blogs tradicionales. Los completos estilos de edición te dan una buena idea de cómo se verá tu contenido, incluso antes de que lo publiques. Puedes dar un toque personal a tu sitio cambiando los colores de fondofer y el color de énfasis en el personalizador. Los colores de todos los elementos de tu sitio se calculan automáticamente en base a los colores que elijas, asegurando un alto y accesible contraste de color para tus visitantes."
 
 #. Theme Name of the theme
 #: inc/block-patterns.php:20
@@ -241,11 +241,11 @@ msgstr "El color usado para la superposición. Por defecto es el color de énfas
 
 #: classes/class-twentytwenty-customize.php:357
 msgid "Overlay Background Color"
-msgstr "Color de fondo de la superposición"
+msgstr "Color de fondofer de la superposición"
 
 #: classes/class-twentytwenty-customize.php:288
 msgid "Settings for the \"Cover Template\" page template. Add a featured image to use as background."
-msgstr "Ajustes para la plantilla de portada. Añade una imagen destacada para usarla como fondo."
+msgstr "Ajustes para la plantilla de portada. Añade una imagen destacada para usarla como fondofer."
 
 #: classes/class-twentytwenty-customize.php:188
 msgid "Apply a custom color for links, buttons, featured images."
@@ -456,11 +456,11 @@ msgstr "Pequeña"
 
 #: functions.php:544
 msgid "Background Color"
-msgstr "Color del fondo"
+msgstr "Color del fondofer"
 
 #: functions.php:531
 msgid "Subtle Background"
-msgstr "Fondo sutil"
+msgstr "fondofer sutil"
 
 #: functions.php:516
 msgid "Accent Color"
@@ -584,7 +584,7 @@ msgstr "Crea un efecto Parallax cuando el visitante hace scroll."
 
 #: classes/class-twentytwenty-customize.php:310
 msgid "Fixed Background Image"
-msgstr "Imagen de fondo fija"
+msgstr "Imagen de fondofer fija"
 
 #. Template Name of the theme
 #: classes/class-twentytwenty-customize.php:286
@@ -613,7 +613,7 @@ msgstr "Opciones del tema"
 
 #: classes/class-twentytwenty-customize.php:106
 msgid "Header &amp; Footer Background Color"
-msgstr "Color de fondo de la cabecera y el pie de página"
+msgstr "Color de fondofer de la cabecera y el pie de página"
 
 #: classes/class-twentytwenty-customize.php:87
 msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."

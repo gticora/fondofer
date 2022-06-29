@@ -8665,7 +8665,7 @@ msgstr "Opciones de diseño:"
 
 #: modules/widgets/twitter-timeline.php:557
 msgid "Transparent background"
-msgstr "Fondo transparente"
+msgstr "fondofer transparente"
 
 #: modules/widgets/wordpress-post-widget/class.jetpack-display-posts-widget-base.php:40
 msgid "Display WordPress Posts"
@@ -11978,7 +11978,7 @@ msgstr "Activar carrusel"
 
 #: modules/carousel/jetpack-carousel.php:1181
 msgid "Background color"
-msgstr "Color de fondo"
+msgstr "Color de fondofer"
 
 #: modules/carousel/jetpack-carousel.php:1184 _inc/blocks/editor-beta.js:88
 #: _inc/blocks/editor-experimental.js:88

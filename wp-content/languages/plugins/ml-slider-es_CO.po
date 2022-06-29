@@ -138,7 +138,7 @@ msgstr "Modo oscuro"
 
 #: metagallery/resources/views/parts/right-dropdown.php:100
 msgid "Background color"
-msgstr "Color de fondo"
+msgstr "Color de fondofer"
 
 #: metagallery/resources/views/parts/modal.php:17
 msgid "Action"
@@ -568,7 +568,7 @@ msgstr "Este tema coloca los controles verticalmente para obtener un aspecto ún
 
 #: themes/manifest.php:82
 msgid "A futuristic and linear design that goes will with a dark background."
-msgstr "Un diseño futurista y lineal que combina con un fondo oscuro."
+msgstr "Un diseño futurista y lineal que combina con un fondofer oscuro."
 
 #: themes/manifest.php:91
 msgid "A simple theme that neatly blends into any existing website."
@@ -688,7 +688,7 @@ msgstr "Las capas pueden incluir %1$s texto, HTML, imágenes, vídeos %2$s ¡e i
 
 #: ml-slider.php:1733
 msgid "Additional optimization and customization options including using a video as the slide background, and adjusting the padding and background color of each layer."
-msgstr "Opciones adicionales de optimización y personalización que incluyen usar un vídeo como fondo de la diapositiva, y ajustar el relleno y color de fondo de cada capa."
+msgstr "Opciones adicionales de optimización y personalización que incluyen usar un vídeo como fondofer de la diapositiva, y ajustar el relleno y color de fondofer de cada capa."
 
 #: ml-slider.php:1734 ml-slider.php:1763 ml-slider.php:1791 ml-slider.php:1818
 msgid "Find out more about all the features of the Add-on Pack here"
