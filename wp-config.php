@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'fondofer_fondofer');
+define('DB_NAME', 'fondo_fondo');
 
 /** MySQL database username */
-define('DB_USER', 'fondofer_fondo');
+define('DB_USER', 'fondo_fondo');
 
 /** MySQL database password */
 define('DB_PASSWORD', '486-YvS0p(');
